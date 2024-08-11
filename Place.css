@@ -1,0 +1,22 @@
+/* src/components/Place.css */
+.place {
+    display: flex;
+    align-items: center;
+    margin: 3em 0;
+    padding: 2em;
+    background: rgba(77, 18, 18, 0.7);
+    border-radius: 10px;
+  }
+  
+  .description {
+    flex: 1;
+  }
+  
+  .image img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+  }
+
+  
+  
