@@ -1,0 +1,28 @@
+/* src/App.css */
+body {
+  background-image: url("https://th.wallha.com/ts/kn6S8ehI.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  padding: 2em;
+  margin: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
